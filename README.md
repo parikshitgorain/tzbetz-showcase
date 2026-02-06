@@ -148,12 +148,16 @@ Comprehensive CSP headers for XSS protection.
 ## 🖼️ Screenshots
 
 *Screenshots are provided for demonstration purposes only.*
-
 ### 📊 Dashboard
 ![Dashboard](screenshot/dashboard.png)
 
 ### 📊 Leaderboard
 ![Dashboard](screenshot/leaderboard.png)
+
+- Crash game interface
+- Admin panel
+- Raffle ticket generation
+- User profile
 
 ---
 
@@ -253,14 +257,18 @@ All AI-generated code was reviewed, tested, and integrated by the developer.
 
 ---
 
-## 🌟 Why This Project?
+## 🌟 About This Project
 
-TZBETZ was built to solve real problems in the casino streaming community:
+This platform was built by **Parikshit Gorain** as a custom solution for a casino streaming community client.
 
-1. **Fair Leaderboards**: Automated wager tracking eliminates manual entry errors
-2. **Transparent Raffles**: Fisher-Yates shuffle ensures random ticket distribution
-3. **Community Engagement**: Real-time crash games and rewards keep viewers engaged
-4. **Streamer Tools**: Admin dashboard for easy prize management
+**Key Development Challenges Solved:**
+1. **Real-time Synchronization**: Implemented WebSocket-based crash game with concurrent players
+2. **Rainbet API Integration**: Built compliant leaderboard sync with automated 20-second polling
+3. **Fair Raffle System**: Developed Fisher-Yates shuffle algorithm for transparent ticket distribution
+4. **OAuth Implementation**: Integrated Discord and Kick authentication with secure session management
+5. **Performance**: Optimized for production with PM2, Nginx, and MongoDB session store
+
+This project demonstrates full-stack development capabilities with real-time features, external API integration, and production-ready deployment.
 
 ---
 
@@ -277,26 +285,12 @@ This platform promotes **responsible gambling practices**. Users should always:
 
 ---
 
-## 📞 Support & Social Links
+## 📞 Developer Contact
 
-**TZBETZ Community**:
-- **Website**: [http://tzbetz.com/](http://tzbetz.com/)
-- **Kick**: [https://kick.com/tzbetz](https://kick.com/tzbetz)
+**Live Demo**: [http://tzbetz.com/](http://tzbetz.com/)
 
 **Contact**:
 - **Email**: parikshitgorain@yahoo.com
-
----
-
-## 📈 Future Enhancements
-
-*(Planned features - subject to change)*
-
-- Mobile app (React Native)
-- Additional game modes
-- NFT-based reward system
-- Tournament system
-- Advanced analytics dashboard
 
 ---
 
@@ -305,14 +299,6 @@ This platform promotes **responsible gambling practices**. Users should always:
 **Proprietary License** - All rights reserved.
 
 See contact information above for licensing inquiries.
-
----
-
-## ❤️ Support the Work
-
-This project is actively maintained and continuously improved. It represents hundreds of hours of development, testing, and refinement.
-
-If you're interested in collaboration or supporting development, please reach out via email.
 
 ---
 
