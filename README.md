@@ -150,10 +150,10 @@ Comprehensive CSP headers for XSS protection.
 *Screenshots are provided for demonstration purposes only.*
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### 📊 Leaderboard
-![Dashboard](screenshots/leaderboard.png)
+![Dashboard](screenshot/leaderboard.png)
 
 ---
 
