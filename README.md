@@ -149,12 +149,11 @@ Comprehensive CSP headers for XSS protection.
 
 *Screenshots are provided for demonstration purposes only.*
 
-- Homepage/Dashboard
-- Leaderboard page
-- Crash game interface
-- Admin panel
-- Raffle ticket generation
-- User profile
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📊 Leaderboard
+![Dashboard](screenshots/leaderboard.png)
 
 ---
 
